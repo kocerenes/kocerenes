@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile :wave: :wave: :wave:
 
-- :telescope: I’m currently working on: Android-Kotlin
+- :telescope: I’m currently working on: C#,MSSQL,POSTGRESQL,JAVA,SQL
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kocernes&color=green" alt="kocerenes :: Profile Stats"></a>
