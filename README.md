@@ -1,6 +1,5 @@
 ### Hi, Welcome To My Github Profile :wave: :wave: :wave:
 
-- :telescope: I like working on: C#,MSSQL,SQL
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kocernes&color=green" alt="kocerenes :: Profile Stats"></a>
