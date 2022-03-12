@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kocerenes&color=green" alt="kocerenes :: Profile Stats"></a>
 <a href="mailto:eneskocerr41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eneskocerr41@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="linkedin.com/in/enes-koçer-330a49199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adematici-blue?style=flat&logo=linkedin"></a>
+<a href="linkedin.com/in/enes-koçer-330a49199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@eneskocer-blue?style=flat&logo=linkedin"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
