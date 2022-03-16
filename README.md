@@ -1,5 +1,8 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
+I'm Enes, I'm a computer scientist. I'm currently working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community. I also have ASP.NET CORE experience. I am interested in Blockchain as a hobby. I study the Solidity language whenever I have time. I am also a boursier in the [Google Game and App Academy][1]. I took Flutter and Unity trainings there. So, I also make cross platform applications with Flutter.
+
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kocerenes&color=green" alt="kocerenes :: Profile Stats"></a>
 <a href="mailto:eneskocerr41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eneskocerr41@gmail.com-blue?style=flat&logo=gmail"></a>
@@ -16,3 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocerenes&layout=compact&theme=tokyonight" height="180">
   
 </p>
+
+[0]: https://www.mobiler.dev/
+[1]: https://oyunveuygulamaakademisi.com/
