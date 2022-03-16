@@ -2,11 +2,12 @@
 
 I'm Enes, I'm a computer scientist. I'm currently working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community. I also have ASP.NET CORE experience. I am interested in Blockchain as a hobby. I study the Solidity language whenever I have time. I am also a boursier in the [Google Game and App Academy][1]. I took Flutter and Unity trainings there. So, I also make cross platform applications with Flutter.
 
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kocerenes&color=green" alt="kocerenes :: Profile Stats"></a>
 <a href="mailto:eneskocerr41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eneskocerr41@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="linkedin.com/in/enes-koçer-330a49199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@eneskocer-blue?style=flat&logo=linkedin"></a>
+<a href="https://medium.com/@eneskocerr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-@eneskocerr-yellow?style=flat&logo=medium"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -16,10 +17,12 @@ I'm Enes, I'm a computer scientist. I'm currently working on Android application
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=kocerenes&color=green" alt="kocerenes :: Profile Stats"></a>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kocerenes&show_icons=true&theme=tokyonight" width="450" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocerenes&layout=compact&theme=tokyonight" height="180">
-  
-</p>
+  </p>
 
 [0]: https://www.mobiler.dev/
 [1]: https://oyunveuygulamaakademisi.com/
