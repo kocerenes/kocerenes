@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://imagehost9.online-image-editor.com/oie_upload/images/111026313VZJ93Rl/PNcDyTJW5RAM.gif"/>
-</p>
-
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
 <p align="center">
