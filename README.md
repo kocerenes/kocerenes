@@ -6,7 +6,7 @@ I'm Enes, I'm a computer scientist. I'm currently working on Android application
 
 <p align="center">
 <a href="mailto:eneskocerr41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eneskocerr41@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="linkedin.com/in/enes-koçer-330a49199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@eneskocer-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/enes-ko%C3%A7er-330a49199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@eneskocer-blue?style=flat&logo=linkedin"></a>
 <a href="https://medium.com/@eneskocerr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-@eneskocerr-yellow?style=flat&logo=medium"></a>
 </p>
 
