@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Enes, I'm a computer scientist. I'm currently working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community. I also have ASP.NET CORE experience. I am interested in Blockchain as a hobby. I study the Solidity language whenever I have time. I am also a boursier in the [Google Game and App Academy][1]. I took Flutter and Unity trainings there. So, I also make cross platform applications with Flutter.
+I'm Enes, I'm a computer engineering student. I'm currently working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community. I also have ASP.NET CORE experience. I am interested in Blockchain as a hobby. I study the Solidity language whenever I have time. I am also a boursier in the [Google Game and App Academy][1]. I took Flutter and Unity trainings there. So, I also make cross platform applications with Flutter.
 
 <h3 align="center">Connect with me:</h3>
 
